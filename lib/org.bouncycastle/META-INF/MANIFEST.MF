@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Bouncycastle
+Bundle-SymbolicName: org.bouncycastle
+Bundle-Version: 1.46
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ClassPath: bcprov-jdk15-1.46.jar

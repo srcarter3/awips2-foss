@@ -22,6 +22,5 @@
 	<classpathentry exported="true" kind="lib" path="batik-util.jar" sourcepath="batik-src-1.6.zip"/>
 	<classpathentry exported="true" kind="lib" path="batik-xml.jar" sourcepath="batik-src-1.6.zip"/>
 	<classpathentry exported="true" kind="lib" path="batik.jar" sourcepath="org.apache.batiksrc.zip"/>
-	<classpathentry exported="true" kind="lib" path="xercesImpl-2.7.0.jar" sourcepath="Xerces-J-src.2.7.0.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
