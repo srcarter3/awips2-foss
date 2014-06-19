@@ -28,9 +28,8 @@ Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,
  org.apache.commons.configuration,
  org.apache.commons.lang,
- org.apache.xerces,
- org.apache.xml.apis
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+ org.apache.xerces;bundle-version="2.9.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: org.apache.batik,
  org.apache.batik.apps.rasterizer,
  org.apache.batik.apps.svgpp,
