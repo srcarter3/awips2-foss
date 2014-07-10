@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Netcdf
-Bundle-SymbolicName: ll.netcdf
-Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: edu.mit.ll.netcdf
+Bundle-Version: 1.3.0.qualifier
 Bundle-Vendor: Raytheon-bundled OSS
 Require-Bundle: org.eclipse.core.runtime
 Bundle-ActivationPolicy: lazy
