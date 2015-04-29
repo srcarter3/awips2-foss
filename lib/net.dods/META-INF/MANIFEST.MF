@@ -10,3 +10,6 @@ Bundle-ClassPath: gnu-getopt-1.0.6.jar,
  dods-1.1.7.jar,
  opendap2-1.0.0.jar,
  .
+Export-Package: dods.dap,
+ opendap.dap,
+ opendap.dap.parser
