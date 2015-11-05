@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Security
 Bundle-SymbolicName: org.apache.ws.security
-Bundle-Version: 1.6.14
+Bundle-Version: 1.6.19
 Require-Bundle: org.slf4j;bundle-version="1.6.1",
  org.opensaml;bundle-version="1.0.0",
  org.apache.xml.serializer;bundle-version="2.7.1",
@@ -12,7 +12,7 @@ Require-Bundle: org.slf4j;bundle-version="1.6.1",
  org.apache.xml.security;bundle-version="1.5.6"
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Bundle-ClassPath: wss4j-1.6.14.jar
+Bundle-ClassPath: wss4j-1.6.19.jar
 Export-Package: org.apache.ws.security,
  org.apache.ws.security.action,
  org.apache.ws.security.cache,
