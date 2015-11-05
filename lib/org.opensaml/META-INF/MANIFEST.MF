@@ -2,11 +2,11 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Xml
 Bundle-SymbolicName: org.opensaml
-Bundle-Version: 2.6.1
+Bundle-Version: 2.6.5
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-ClassPath: opensaml-2.6.1.jar,
- openws-1.5.1.jar,
- xmltooling-1.4.1.jar
+Bundle-ClassPath: xmltooling-1.4.5.jar,
+ openws-1.5.4.jar,
+ opensaml-2.6.5.jar
 Export-Package: org.opensaml,
  org.opensaml.common,
  org.opensaml.common.binding,
@@ -44,6 +44,10 @@ Export-Package: org.opensaml,
  org.opensaml.samlext.idpdisco,
  org.opensaml.samlext.saml1md,
  org.opensaml.samlext.saml1md.impl,
+ org.opensaml.samlext.saml2aslo,
+ org.opensaml.samlext.saml2aslo.impl,
+ org.opensaml.samlext.saml2cb,
+ org.opensaml.samlext.saml2cb.impl,
  org.opensaml.samlext.saml2delrestrict,
  org.opensaml.samlext.saml2delrestrict.impl,
  org.opensaml.samlext.saml2mdattr,
@@ -52,6 +56,8 @@ Export-Package: org.opensaml,
  org.opensaml.samlext.saml2mdquery.impl,
  org.opensaml.samlext.saml2mdui,
  org.opensaml.samlext.saml2mdui.impl,
+ org.opensaml.samlext.samlec,
+ org.opensaml.samlext.samlec.impl,
  org.opensaml.samlext.samlpthrpty,
  org.opensaml.samlext.samlpthrpty.impl,
  org.opensaml.security,
@@ -116,6 +122,7 @@ Export-Package: org.opensaml,
  org.opensaml.xml.security.keyinfo.provider,
  org.opensaml.xml.security.trust,
  org.opensaml.xml.security.x509,
+ org.opensaml.xml.security.x509.tls,
  org.opensaml.xml.signature,
  org.opensaml.xml.signature.impl,
  org.opensaml.xml.signature.validator,
