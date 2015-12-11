@@ -128,3 +128,4 @@ Export-Package: org.opensaml,
  org.opensaml.xml.signature.validator,
  org.opensaml.xml.util,
  org.opensaml.xml.validation
+Require-Bundle: org.apache.commons.ssl;bundle-version="1.0.2"

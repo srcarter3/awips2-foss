@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Name: org.apache.commons.ssl
+Bundle-SymbolicName: org.apache.commons.ssl
+Bundle-Version: 1.0.2
+Bundle-ClassPath: commons-ssl.jar
+Export-Package: org.apache.commons.httpclient.contrib.ssl,
+ org.apache.commons.ssl,
+ org.apache.commons.ssl.asn1,
+ org.apache.commons.ssl.rmi
