@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="opensaml-2.6.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="openws-1.5.4.jar"/>
-	<classpathentry exported="true" kind="lib" path="xmltooling-1.4.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-core-3.1.1.jar" sourcepath="opensaml-core-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-profile-api-3.1.1.jar" sourcepath="opensaml-profile-api-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-saml-api-3.1.1.jar" sourcepath="opensaml-saml-api-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-saml-impl-3.1.1.jar" sourcepath="opensaml-saml-impl-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-security-api-3.1.1.jar" sourcepath="opensaml-security-api-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-security-impl-3.1.1.jar" sourcepath="opensaml-security-impl-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-soap-api-3.1.1.jar" sourcepath="opensaml-soap-api-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-xacml-api-3.1.1.jar" sourcepath="opensaml-xacml-api-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-xacml-impl-3.1.1.jar" sourcepath="opensaml-xacml-impl-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-xacml-saml-api-3.1.1.jar" sourcepath="opensaml-xacml-saml-api-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-xacml-saml-impl-3.1.1.jar" sourcepath="opensaml-xacml-saml-impl-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-xmlsec-api-3.1.1.jar" sourcepath="opensaml-xmlsec-api-3.1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="opensaml-xmlsec-impl-3.1.1.jar" sourcepath="opensaml-xmlsec-impl-3.1.1-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
