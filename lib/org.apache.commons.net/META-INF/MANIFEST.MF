@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Net
 Bundle-SymbolicName: org.apache.commons.net
-Bundle-Version: 3.3.0.qualifier
+Bundle-Version: 3.3
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: commons-net-3.3.jar

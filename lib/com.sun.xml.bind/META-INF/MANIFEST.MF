@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Bind
 Bundle-SymbolicName: com.sun.xml.bind
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 2.1.9
 Bundle-ClassPath: jaxb-impl-2.1.9.jar
 Bundle-Vendor: SUN
 Export-Package: com.sun.istack,
@@ -34,4 +34,4 @@ Export-Package: com.sun.istack,
  com.sun.xml.txw2,
  com.sun.xml.txw2.annotation,
  com.sun.xml.txw2.output
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7

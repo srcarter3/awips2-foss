@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Log4j Plug-in
 Bundle-SymbolicName: org.apache.log4j
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.2.16
 Bundle-ClassPath: log4j-1.2.16.jar,
  log4j.extras-1.0.jar,
  .
@@ -30,5 +30,5 @@ Export-Package: org.apache.log4j,
  org.apache.log4j.spi,
  org.apache.log4j.varia,
  org.apache.log4j.xml
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Eclipse-BuddyPolicy: registered, ext, global

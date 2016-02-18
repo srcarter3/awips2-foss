@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Dap
 Bundle-SymbolicName: net.dods
-Bundle-Version: 1.1.7.qualifier
+Bundle-Version: 1.1.7
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: gnu-getopt-1.0.6.jar,
  gnu-regexp-1.1.4.jar,
  dods-1.1.7.jar,
