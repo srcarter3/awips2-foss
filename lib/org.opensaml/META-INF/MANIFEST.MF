@@ -16,7 +16,8 @@ Bundle-ClassPath: opensaml-core-3.1.1.jar,
  opensaml-xacml-saml-api-3.1.1.jar,
  opensaml-xacml-saml-impl-3.1.1.jar,
  opensaml-xmlsec-api-3.1.1.jar,
- opensaml-xmlsec-impl-3.1.1.jar
+ opensaml-xmlsec-impl-3.1.1.jar,
+ java-support-7.1.1.jar
 Export-Package: org.opensaml.core,
  org.opensaml.core.config,
  org.opensaml.core.config.provider,
