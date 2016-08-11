@@ -2,21 +2,21 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Smack
 Bundle-SymbolicName: org.jivesoftware.smack
-Bundle-Version: 4.1.4
+Bundle-Version: 4.1.8
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: .,
- smack-core-4.1.4.jar,
- smack-extensions-4.1.4.jar,
- smack-im-4.1.4.jar,
- smack-java7-4.1.4.jar,
- smack-resolver-dnsjava-4.1.4.jar,
- smack-tcp-4.1.4.jar,
  xmlpull-1.1.3.4d_b4_min.jar,
  jxmpp-core-0.5.0-alpha6.jar,
  jxmpp-jid-0.5.0-alpha6.jar,
  xpp3-1.1.4c.jar,
  jxmpp-util-cache-0.5.0-alpha6.jar,
- smack-sasl-provided-4.1.4.jar
+ smack-core-4.1.8.jar,
+ smack-extensions-4.1.8.jar,
+ smack-im-4.1.8.jar,
+ smack-java7-4.1.8.jar,
+ smack-resolver-dnsjava-4.1.8.jar,
+ smack-sasl-provided-4.1.8.jar,
+ smack-tcp-4.1.8.jar
 Export-Package: org.jivesoftware.smack,
  org.jivesoftware.smack.chat,
  org.jivesoftware.smack.compress.packet,
