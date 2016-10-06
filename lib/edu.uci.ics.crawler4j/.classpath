@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry exported="true" kind="lib" path="apache-mime4j-core-0.7.jar"/>
 	<classpathentry exported="true" kind="lib" path="apache-mime4j-dom-0.7.jar"/>
-	<classpathentry exported="true" kind="lib" path="asm-3.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="boilerpipe-1.1.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="je-4.0.92.jar"/>
 	<classpathentry exported="true" kind="lib" path="metadata-extractor-2.4.0-beta-1.jar"/>
