@@ -7,7 +7,6 @@ Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: apache-mime4j-core-0.7.jar,
  apache-mime4j-dom-0.7.jar,
- asm-3.1.jar,
  boilerpipe-1.1.0.jar,
  je-4.0.92.jar,
  metadata-extractor-2.4.0-beta-1.jar,
@@ -17,7 +16,8 @@ Bundle-ClassPath: apache-mime4j-core-0.7.jar,
  .
 Require-Bundle: org.apache.commons.codec;bundle-version="1.4.0",
  org.apache.http;bundle-version="4.1.2",
- org.apache.commons.compress;bundle-version="1.5.0"
+ org.apache.commons.compress;bundle-version="1.5.0",
+ org.objectweb;bundle-version="2.2"
 Export-Package: com.drew.imaging,
  com.drew.imaging.jpeg,
  com.drew.imaging.tiff,
@@ -156,7 +156,5 @@ Export-Package: com.drew.imaging,
  org.apache.tika.utils,
  org.ccil.cowan.tagsoup,
  org.ccil.cowan.tagsoup.jaxp,
- org.cyberneko.html,
- org.objectweb.asm,
- org.objectweb.asm.signature
+ org.cyberneko.html
 Import-Package: org.apache.log4j
