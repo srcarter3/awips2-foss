@@ -9,7 +9,7 @@ Bundle-ClassPath: gnu-getopt-1.0.6.jar,
  gnu-regexp-1.1.4.jar,
  dods-1.1.7.jar,
  .,
- opendap2-1.0.1.jar
+ opendap2-1.0.2.jar
 Export-Package: dods.dap,
  opendap.dap,
  opendap.dap.parser

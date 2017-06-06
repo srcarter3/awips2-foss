@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="opendap2-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="opendap2-1.0.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="dods-1.1.7.jar"/>
 	<classpathentry exported="true" kind="lib" path="gnu-getopt-1.0.6.jar"/>
 	<classpathentry exported="true" kind="lib" path="gnu-regexp-1.1.4.jar"/>
