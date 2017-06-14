@@ -10,7 +10,8 @@ Bundle-ClassPath: gnu-getopt-1.0.6.jar,
  dods-1.1.7.jar,
  .,
  opendap2-1.0.2.jar
-Export-Package: dods.dap,
+Export-Package: com.raytheon.opendap,
+ dods.dap,
  opendap.dap,
  opendap.dap.parser
 Require-Bundle: org.jdom;bundle-version="1.1.3",
