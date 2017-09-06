@@ -2,12 +2,13 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Bind
 Bundle-SymbolicName: com.sun.xml.bind
-Bundle-Version: 2.1.9
-Bundle-ClassPath: jaxb-impl-2.1.9.jar
+Bundle-Version: 2.2.11
+Bundle-ClassPath: jaxb-impl-2.2.11.jar,
+ jaxb-core-2.2.11.jar,
+ istack-commons-runtime-2.21.jar,
+ txw2-2.2.11.jar
 Bundle-Vendor: SUN
-Export-Package: com.sun.istack,
- com.sun.istack.localization,
- com.sun.xml.bind,
+Export-Package: com.sun.xml.bind,
  com.sun.xml.bind.annotation,
  com.sun.xml.bind.api,
  com.sun.xml.bind.api.impl,
@@ -21,6 +22,7 @@ Export-Package: com.sun.istack,
  com.sun.xml.bind.v2.model.impl,
  com.sun.xml.bind.v2.model.nav,
  com.sun.xml.bind.v2.model.runtime,
+ com.sun.xml.bind.v2.model.util,
  com.sun.xml.bind.v2.runtime,
  com.sun.xml.bind.v2.runtime.output,
  com.sun.xml.bind.v2.runtime.property,
@@ -30,8 +32,5 @@ Export-Package: com.sun.istack,
  com.sun.xml.bind.v2.schemagen,
  com.sun.xml.bind.v2.schemagen.episode,
  com.sun.xml.bind.v2.schemagen.xmlschema,
- com.sun.xml.bind.v2.util,
- com.sun.xml.txw2,
- com.sun.xml.txw2.annotation,
- com.sun.xml.txw2.output
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+ com.sun.xml.bind.v2.util
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
