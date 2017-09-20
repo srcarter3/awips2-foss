@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Time
 Bundle-SymbolicName: org.joda.time
-Bundle-Version: 1.6.2
+Bundle-Version: 2.9.9
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-ClassPath: joda-time-1.6.2.jar
+Bundle-ClassPath: joda-time-2.9.9.jar
 Export-Package: org.joda.time,
  org.joda.time.base,
  org.joda.time.chrono,
