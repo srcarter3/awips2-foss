@@ -6,7 +6,8 @@ Bundle-Version: 4.6.10
 Bundle-ClassPath: bufr-4.6.10.jar,
  grib-4.6.10.jar,
  cdm-4.6.10.jar,
- httpservices-4.6.10.jar
+ httpservices-4.6.10.jar,
+ udunits-4.6.10.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Require-Bundle: org.slf4j;bundle-version="1.6.1",
  org.jdom2;bundle-version="2.0.4",
@@ -122,4 +123,5 @@ Export-Package: thredds.catalog,
  ucar.unidata.io.bzip2,
  ucar.unidata.io.http,
  ucar.unidata.util,
+ ucar.units,
  uk.ac.rdg.resc.edal.time

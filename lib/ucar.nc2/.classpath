@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="udunits-4.6.10.jar" sourcepath="udunits-4.6.10-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="httpservices-4.6.10.jar" sourcepath="httpservices-4.6.10-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="cdm-4.6.10.jar" sourcepath="cdm-4.6.10-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="bufr-4.6.10.jar" sourcepath="bufr-4.6.10-sources.jar"/>
