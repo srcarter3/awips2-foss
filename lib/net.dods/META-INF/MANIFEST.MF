@@ -7,10 +7,8 @@ Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: gnu-getopt-1.0.6.jar,
  gnu-regexp-1.1.4.jar,
- dods-1.1.7.jar,
  opendap2-1.0.3.jar
 Export-Package: com.raytheon.opendap,
- dods.dap,
  opendap.dap,
  opendap.dap.parser
 Require-Bundle: org.jdom;bundle-version="1.1.3",
