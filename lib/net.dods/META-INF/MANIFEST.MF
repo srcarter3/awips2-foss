@@ -7,7 +7,7 @@ Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: gnu-getopt-1.0.6.jar,
  gnu-regexp-1.1.4.jar,
- opendap2-1.0.3.jar
+ opendap2-1.0.4.jar
 Export-Package: com.raytheon.opendap,
  opendap.dap,
  opendap.dap.parser
