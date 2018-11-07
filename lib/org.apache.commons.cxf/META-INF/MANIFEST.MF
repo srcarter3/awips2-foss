@@ -4,7 +4,7 @@ Bundle-Name: Cxf
 Bundle-SymbolicName: org.apache.commons.cxf
 Bundle-Version: 3.1.14
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Bundle-ClassPath: FastInfoset-1.2.13.jar,
+Bundle-ClassPath: not-yet-commons-ssl-0.3.17.jar,
  geronimo-activation_1.1_spec-1.1.jar,
  geronimo-annotation_1.0_spec-1.1.1.jar,
  geronimo-stax-api_1.0_spec-1.0.1.jar,
