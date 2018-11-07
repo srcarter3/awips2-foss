@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Esapi
 Bundle-SymbolicName: org.owasp.esapi
-Bundle-Version: 2.0.1
+Bundle-Version: 2.1.0.1
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-ClassPath: esapi-2.0.1.jar
+Bundle-ClassPath: esapi-2.1.0.1.jar
 Export-Package: org.owasp.esapi,
  org.owasp.esapi.codecs,
  org.owasp.esapi.crypto,
