@@ -4,7 +4,7 @@ Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-Name: org.apache.commons.ssl
 Bundle-SymbolicName: org.apache.commons.ssl
 Bundle-Version: 1.0.2
-Bundle-ClassPath: not-yet-commons-ssl-0.3.17
+Bundle-ClassPath: not-yet-commons-ssl-0.3.17.jar
 Export-Package: org.apache.commons.httpclient.contrib.ssl,
  org.apache.commons.ssl,
  org.apache.commons.ssl.asn1,
