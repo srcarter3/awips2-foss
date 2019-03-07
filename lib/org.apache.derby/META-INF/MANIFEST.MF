@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Derby
 Bundle-SymbolicName: org.apache.derby
-Bundle-Version: 10.12.1.1
-Bundle-ClassPath: derby-10.12.1.1.jar,
- derbyrun-10.12.1.1.jar,
- derbytools-10.12.1.1.jar
+Bundle-Version: 10.14.2.0
+Bundle-ClassPath: derby-10.14.2.0.jar,
+ derbyrun-10.14.2.0.jar,
+ derbytools-10.14.2.0.jar
 Bundle-Vendor: Apache
 Export-Package: org.apache.derby.agg,
  org.apache.derby.authentication,
