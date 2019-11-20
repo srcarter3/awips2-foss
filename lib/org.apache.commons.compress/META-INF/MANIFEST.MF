@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Compress
 Bundle-SymbolicName: org.apache.commons.compress
-Bundle-Version: 1.10
+Bundle-Version: 1.19
 Bundle-Vendor: Apache
 Export-Package: org.apache.commons.compress,
  org.apache.commons.compress.archivers,
@@ -27,5 +27,5 @@ Export-Package: org.apache.commons.compress,
  org.apache.commons.compress.compressors.z,
  org.apache.commons.compress.parallel,
  org.apache.commons.compress.utils
-Bundle-ClassPath: commons-compress-1.10.jar
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-ClassPath: commons-compress-1.19.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
