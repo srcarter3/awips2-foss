@@ -7,5 +7,5 @@ Bundle-Version: 1.0.2
 Bundle-ClassPath: not-yet-commons-ssl-0.3.17.jar
 Export-Package: org.apache.commons.httpclient.contrib.ssl,
  org.apache.commons.ssl,
- org.apache.commons.ssl.asn1,
+ org.apache.commons.ssl.org.bouncycastle.asn1,
  org.apache.commons.ssl.rmi
