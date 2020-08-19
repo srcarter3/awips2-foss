@@ -2,11 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Objectweb Plug-in
 Bundle-SymbolicName: org.objectweb
-Bundle-Version: 2.2
+Bundle-Version: 8.0.1
 Bundle-ClassPath: .,
- asm-2.2.jar,
- asm-attrs-2.2.jar
+ asm-8.0.1.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: org.objectweb.asm,
- org.objectweb.asm.attrs,
  org.objectweb.asm.signature
