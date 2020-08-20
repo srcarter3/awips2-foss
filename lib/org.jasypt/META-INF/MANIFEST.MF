@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jasypt
 Bundle-SymbolicName: org.jasypt
-Bundle-Version: 1.9.2
-Bundle-ClassPath: jasypt-1.9.2.jar
+Bundle-Version: 1.9.3
+Bundle-ClassPath: jasypt-1.9.3.jar
 Export-Package: org.jasypt.commons,
  org.jasypt.contrib.org.apache.commons.codec_1_3,
  org.jasypt.contrib.org.apache.commons.codec_1_3.binary,
@@ -26,4 +26,4 @@ Export-Package: org.jasypt.commons,
  org.jasypt.util.password.rfc2307,
  org.jasypt.util.text,
  org.jasypt.web.pbeconfig
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

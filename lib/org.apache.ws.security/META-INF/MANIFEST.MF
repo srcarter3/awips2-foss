@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Security
 Bundle-SymbolicName: org.apache.ws.security
-Bundle-Version: 2.1.4
+Bundle-Version: 2.2.5
 Require-Bundle: org.slf4j;bundle-version="1.6.1",
  org.opensaml;bundle-version="1.0.0",
  org.apache.xml.serializer;bundle-version="2.7.1",
@@ -12,13 +12,13 @@ Require-Bundle: org.slf4j;bundle-version="1.6.1",
  org.apache.xml.security;bundle-version="2.0.6",
  org.jasypt;bundle-version="1.9.2"
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Bundle-ClassPath: wss4j-bindings-2.1.4.jar,
- wss4j-policy-2.1.4.jar,
- wss4j-ws-security-common-2.1.4.jar,
- wss4j-ws-security-dom-2.1.4.jar,
- wss4j-ws-security-policy-stax-2.1.4.jar,
- wss4j-ws-security-stax-2.1.4.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ClassPath: wss4j-bindings-2.2.5.jar,
+ wss4j-policy-2.2.5.jar,
+ wss4j-ws-security-common-2.2.5.jar,
+ wss4j-ws-security-dom-2.2.5.jar,
+ wss4j-ws-security-policy-stax-2.2.5.jar,
+ wss4j-ws-security-stax-2.2.5.jar
 Export-Package: org.apache.wss4j.binding.wss10,
  org.apache.wss4j.binding.wss11,
  org.apache.wss4j.binding.wssc,
