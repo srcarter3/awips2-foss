@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Bouncycastle
 Bundle-SymbolicName: org.bouncycastle
-Bundle-Version: 1.64
+Bundle-Version: 1.68
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-ClassPath: bcprov-jdk15on-1.64.jar
+Bundle-ClassPath: bcprov-jdk15on-168.jar
 Export-Package: org.bouncycastle,
  org.bouncycastle.asn1,
  org.bouncycastle.asn1.anssi,
@@ -70,7 +70,6 @@ Export-Package: org.bouncycastle,
  org.bouncycastle.crypto.prng,
  org.bouncycastle.crypto.prng.drbg,
  org.bouncycastle.crypto.signers,
- org.bouncycastle.crypto.tls,
  org.bouncycastle.crypto.util,
  org.bouncycastle.i18n,
  org.bouncycastle.i18n.filter,
