@@ -341,4 +341,4 @@ Export-Package: javax.ws.rs,
  org.apache.cxf.xmlbeans.tools
 Require-Bundle: javax.servlet,
  org.opensaml,
- org.objectweb;bundle-version="2.2.0"
+ org.objectweb
